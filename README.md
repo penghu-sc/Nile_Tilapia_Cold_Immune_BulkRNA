@@ -20,7 +20,7 @@ Raw data can be downloaded from [link](https://dataview.ncbi.nlm.nih.gov/object/
 
 If you found this code useful, please cite the following paper:
 
-[Hu, P., Fabyanic, E., Kwon, D. Y., Tang, S., Zhou, Z., & Wu, H. (2017). Dissecting Cell-Type Composition and Activity-Dependent Transcriptional State in Mammalian Brains by Massively Parallel Single-Nucleus RNA-Seq. Molecular cell, 68(5), 1006-1015.](http://www.cell.com/molecular-cell/abstract/S1097-2765(17)30876-6) #需要修改
+Jiao, H., Huang, S., Zhang, M., Huang, Q., Yan, C., Qi, J., Cheng, J., Xu, Y., Zhai, X., Li, X., Zhan, S., Li, W., Wu, Z., Chan, J., Chen, L., Hu, P., 2025. Uncovering the chromatin-mediated transcriptional regulatory network governing cold stress responses in fish immune cells. Journal of Genetics and Genomics. https://doi.org/10.1016/j.jgg.2025.01.008
 
 # Contact
 
